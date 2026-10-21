@@ -1,0 +1,627 @@
+{
+  "schema": 1,
+  "style": "D1",
+  "models": {
+    "vine_seed": {
+      "path": "res://art/experiments/garden-art-r1/derived/lod/D1-vine_seed-runtime.glb",
+      "sha256": "1e525017af7653b4b7bbbc7c7e581946b9740001bddde8b3fc00d31af6e875e7",
+      "raw_source": {
+        "path": "res://art/experiments/garden-art-r1/downloads/D1-vine_seed/f9cbd0ff3fd69ec2d261d1061fcb010350bab8660049e0da5834fde0e734424b.glb",
+        "sha256": "f9cbd0ff3fd69ec2d261d1061fcb010350bab8660049e0da5834fde0e734424b"
+      }
+    },
+    "vine_sprout": {
+      "path": "res://art/experiments/garden-art-r1/derived/lod/D1-vine_sprout-runtime.glb",
+      "sha256": "ccf882309adc54fdd72297ebc0586ea6730b329a2c4e819f7018059f61b53dd4",
+      "raw_source": {
+        "path": "res://art/experiments/garden-art-r1/downloads/D1-vine_sprout/82f10a117ea3dc27805ba8eea53ee160e03f1e67d95120493070f722a21b9b22.glb",
+        "sha256": "82f10a117ea3dc27805ba8eea53ee160e03f1e67d95120493070f722a21b9b22"
+      }
+    },
+    "vine_leafy": {
+      "path": "res://art/experiments/garden-art-r1/derived/lod/D1-vine_leafy-runtime.glb",
+      "sha256": "15483cf2fc0bcbd2f8816d789a0c2d91369ef0ec40bf43ce0675993833f60d80",
+      "raw_source": {
+        "path": "res://art/experiments/garden-art-r1/downloads/D1-vine_leafy/5f47086dee5812780abff98768c949f9e3ff6f4f14c6a66b2517c4ed02102f0a.glb",
+        "sha256": "5f47086dee5812780abff98768c949f9e3ff6f4f14c6a66b2517c4ed02102f0a"
+      }
+    },
+    "vine_mature": {
+      "path": "res://art/experiments/garden-art-r1/downloads/D1-vine_mature/8fd554aeba8918560ebf4e7cca3a2e7f3ea15ae52b0dac87a32a3fa8da68a73f.glb",
+      "sha256": "8fd554aeba8918560ebf4e7cca3a2e7f3ea15ae52b0dac87a32a3fa8da68a73f",
+      "raw_source": {
+        "path": "res://art/experiments/garden-art-r1/downloads/D1-vine_mature/8fd554aeba8918560ebf4e7cca3a2e7f3ea15ae52b0dac87a32a3fa8da68a73f.glb",
+        "sha256": "8fd554aeba8918560ebf4e7cca3a2e7f3ea15ae52b0dac87a32a3fa8da68a73f"
+      },
+      "foliage_double_sided": true
+    },
+    "root_seed": {
+      "path": "res://art/experiments/garden-art-r1/derived/lod/D1-root_seed-runtime.glb",
+      "sha256": "7a4423a6a063043cc6a41d2897daaf341422efaffe9ef6d1df5a49d12764581b",
+      "raw_source": {
+        "path": "res://art/experiments/garden-art-r1/downloads/D1-root_seed/1ae0d7ce4b8b269beac95ce432a0f574d633c0b27b0765f0b07a3ba35bbaf492.glb",
+        "sha256": "1ae0d7ce4b8b269beac95ce432a0f574d633c0b27b0765f0b07a3ba35bbaf492"
+      }
+    },
+    "root_sprout": {
+      "path": "res://art/experiments/garden-art-r1/derived/lod/D1-root_sprout-runtime.glb",
+      "sha256": "2d2b5593a9658c2b16861ba3fb660d340a7613ef727fa3f3a43f423153ae0978",
+      "raw_source": {
+        "path": "res://art/experiments/garden-art-r1/downloads/D1-root_sprout/c106860083b4792c05c3080c91ab931d149c43fe1208816b0ee803887686ea75.glb",
+        "sha256": "c106860083b4792c05c3080c91ab931d149c43fe1208816b0ee803887686ea75"
+      }
+    },
+    "root_leafy": {
+      "path": "res://art/experiments/garden-art-r1/derived/lod/D1-root_leafy-runtime.glb",
+      "sha256": "ca6fcbe80569f119de208cfd30f3d9edc3991c128c67077db075634713a006e1",
+      "raw_source": {
+        "path": "res://art/experiments/garden-art-r1/downloads/D1-root_leafy/dab011bda53382d7462d5c67c943e72b652184e17e734795c11bf6c7529ac1d0.glb",
+        "sha256": "dab011bda53382d7462d5c67c943e72b652184e17e734795c11bf6c7529ac1d0"
+      }
+    },
+    "root_mature": {
+      "path": "res://art/experiments/garden-art-r1/derived/lod/D1-root_mature-runtime.glb",
+      "sha256": "2cd777e0ace8fcfe5a6855d6eb3d3981556d04d263bf8fa892d59f96a72ccdcf",
+      "raw_source": {
+        "path": "res://art/experiments/garden-art-r1/downloads/D1-root_mature/1517d85836b01401d1f246cad34002b08ed6afad905a3641e80aaf752b964e72.glb",
+        "sha256": "1517d85836b01401d1f246cad34002b08ed6afad905a3641e80aaf752b964e72"
+      }
+    },
+    "soil": {
+      "path": "res://art/experiments/garden-art-r1/derived/lod/D1-soil-runtime.glb",
+      "sha256": "87c0b3140f62dd452992814848607e5f23d539cef4c538bbb6cb6d45d7db8290",
+      "raw_source": {
+        "path": "res://art/experiments/garden-art-r1/downloads/D1-soil/989d7bbcc20288463706acb7f327fbf2246352031bd0413d0ccfb1d05fc8ecfa.glb",
+        "sha256": "989d7bbcc20288463706acb7f327fbf2246352031bd0413d0ccfb1d05fc8ecfa"
+      },
+      "support_surface_fraction": 0.6673053883828088
+    },
+    "watering_can": {
+      "path": "res://art/experiments/garden-art-r1/derived/lod/D1-watering_can-runtime.glb",
+      "sha256": "6aa0e5b3fc9a969acced1b379d95430b398850068e0f59c795e27ea6c1a133ab",
+      "raw_source": {
+        "path": "res://art/experiments/garden-art-r1/downloads/D1-watering_can/a8fde292009ccf660a11f0916494e253fed60063e8a5beae7bada447a6620dc2.glb",
+        "sha256": "a8fde292009ccf660a11f0916494e253fed60063e8a5beae7bada447a6620dc2"
+      }
+    },
+    "rock": {
+      "path": "res://art/experiments/garden-art-r1/derived/lod/D1-rock-runtime.glb",
+      "sha256": "25b56f5984e2e03e3b6b993da4ae94e150fe4623451bb1da004d246706926aa7",
+      "raw_source": {
+        "path": "res://art/experiments/garden-art-r1/downloads/D1-rock/59e666a9fc097a0c4521086ee80a2e744761212f4a362033445d9e01fba8bfbb.glb",
+        "sha256": "59e666a9fc097a0c4521086ee80a2e744761212f4a362033445d9e01fba8bfbb"
+      }
+    },
+    "stele": {
+      "path": "res://art/experiments/garden-art-r1/downloads/D1-stele/97a054465432ba748f480513130f2e8462aa2c3781cfd242cb3639be0e0ed2a4.glb",
+      "sha256": "97a054465432ba748f480513130f2e8462aa2c3781cfd242cb3639be0e0ed2a4",
+      "raw_source": {
+        "path": "res://art/experiments/garden-art-r1/downloads/D1-stele/97a054465432ba748f480513130f2e8462aa2c3781cfd242cb3639be0e0ed2a4.glb",
+        "sha256": "97a054465432ba748f480513130f2e8462aa2c3781cfd242cb3639be0e0ed2a4"
+      }
+    },
+    "bridge": {
+      "path": "res://art/experiments/garden-art-r1/downloads/D1-bridge/4d9261084bd2597854b8ed1208eed84b8cbc6597adf7ff9f602ae7c9feddb1de.glb",
+      "sha256": "4d9261084bd2597854b8ed1208eed84b8cbc6597adf7ff9f602ae7c9feddb1de",
+      "raw_source": {
+        "path": "res://art/experiments/garden-art-r1/downloads/D1-bridge/4d9261084bd2597854b8ed1208eed84b8cbc6597adf7ff9f602ae7c9feddb1de.glb",
+        "sha256": "4d9261084bd2597854b8ed1208eed84b8cbc6597adf7ff9f602ae7c9feddb1de"
+      },
+      "support_surface_fraction": 0.4795314579975094
+    },
+    "tree": {
+      "path": "res://art/experiments/garden-art-r1/downloads/D1-tree/a4deb079a99aac3392da02e9f17a714912a1d98db7702ddd329670296cc9db80.glb",
+      "sha256": "a4deb079a99aac3392da02e9f17a714912a1d98db7702ddd329670296cc9db80",
+      "raw_source": {
+        "path": "res://art/experiments/garden-art-r1/downloads/D1-tree/a4deb079a99aac3392da02e9f17a714912a1d98db7702ddd329670296cc9db80.glb",
+        "sha256": "a4deb079a99aac3392da02e9f17a714912a1d98db7702ddd329670296cc9db80"
+      },
+      "foliage_double_sided": true
+    }
+  },
+  "source_scene": "res://main.tscn",
+  "contract": {
+    "kind": "gameplay-spatial-baseline",
+    "source": "res://",
+    "protected_file_hashes": {
+      "addons/godot_mcp_bridge/godot_mcp_bridge.gd": "d60acb7b078bce086ac71d93d3acfb3a9f56c09adfb212f3da4713ef64b76d8a",
+      "main.tscn": "013b8bbec771de14de949b2cb8a5df042d4ffe1635535edf56cf172a3ae7115d",
+      "project.godot": "e9162edffd9cc3575616974fbf671e41448fda39027bc39c6c89adb4158daf87",
+      "scripts/game.gd": "a3c2d115cc8d11eb5b61b7ef3f3638de437f1a3e8f521dbe5645255c8f292431",
+      "scripts/hud.gd": "42c0d4c4e973869885e634b9a5aff8f8cccf03cdef8bb8e17ccb1fb870a1e445",
+      "scripts/map.gd": "daa33c22d36f69f1bf1d87ce7a8691e8348da6bf78c61a2b0d8be5f62fe7846b",
+      "scripts/player.gd": "cca8161a251067915f8acd7fc526f20dfa4e47ed6accca78cad30b764af7eb8a",
+      "scripts/plot.gd": "9edcde2d29bdd7b4f6d362c203adc10da2f04f866d90d7212fe921f145c35317",
+      "tests/smoke.gd": "25a478ae4ce561f0fe5b6053b907bbcdacb01cb6f63dca2993f254f8cf32de04"
+    },
+    "native_measurements": "baseline/native-baseline.json",
+    "mechanics": {
+      "crops": [
+        "vine",
+        "deep_root"
+      ],
+      "states": [
+        "HARD",
+        "TILLED",
+        "SOWN",
+        "GROWING",
+        "MATURE"
+      ],
+      "bridge": "VineLock with mature vine opens physical bridge permanently",
+      "rubble": "RootLock with mature deep-root plant opens physical passage permanently",
+      "victory": "two harvested materials delivered to source stone",
+      "growth": "3 in-game hours after water, no withering"
+    },
+    "brief_reconciliation": [
+      "Carrot/turnip are not substituted for the established vine/deep-root mechanics.",
+      "Pressure plates, additional puzzle switches and repair objectives are not added.",
+      "Future four visual crop stages can split the existing GROWING appearance without changing the five-state logical machine.",
+      "Sub-10k delivery polycount targets require later reduction; bundled Lux generation minimum is 10000.",
+      "Concepts are not dimension-authoritative; collision geometry and actual reachability remain authoritative."
+    ],
+    "human_art_acceptance": "pending_H1",
+    "scene": "res://main.tscn",
+    "camera": "CameraRig/SpringArm3D/Camera3D",
+    "validation": {
+      "mode": "playable",
+      "project_adapter": {
+        "runner": "res://tests/smoke.gd",
+        "input": "Godot InputEventKey through normal handlers and CharacterBody3D",
+        "report": "evidence/smoke.json",
+        "note": "Use this project's key-input adapter, not the generic package's InputEventAction runner."
+      },
+      "steps": [
+        {
+          "id": "GB001",
+          "name": "GB001",
+          "input_mode": "input_event",
+          "runner_assertion": "Normal startup opens the introduction",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB002",
+          "name": "GB002",
+          "input_mode": "input_event",
+          "runner_assertion": "Start button is fully inside the viewport",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB003",
+          "name": "GB003",
+          "input_mode": "input_event",
+          "runner_assertion": "Inventory is fully inside the viewport",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB004",
+          "name": "GB004",
+          "input_mode": "input_event",
+          "runner_assertion": "Map is fully inside the viewport",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB005",
+          "name": "GB005",
+          "input_mode": "input_event",
+          "runner_assertion": "Enter starts the game",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB006",
+          "name": "GB006",
+          "input_mode": "input_event",
+          "runner_assertion": "Keyboard orbit rotates the real camera",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB007",
+          "name": "GB007",
+          "input_mode": "input_event",
+          "runner_assertion": "Opposite orbit restores the forward heading",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB008",
+          "name": "GB008",
+          "input_mode": "input_event",
+          "runner_assertion": "Interaction out of range changes no resources",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB009",
+          "name": "GB009",
+          "input_mode": "input_event",
+          "runner_assertion": "Falling into the trench returns the player without resource loss",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB010",
+          "name": "GB010",
+          "input_mode": "input_event",
+          "runner_assertion": "The correct bridge plot is reachable and highlighted",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB011",
+          "name": "GB011",
+          "input_mode": "input_event",
+          "runner_assertion": "Till hard ground",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB012",
+          "name": "GB012",
+          "input_mode": "input_event",
+          "runner_assertion": "Unavailable seeds cannot be planted",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB013",
+          "name": "GB013",
+          "input_mode": "input_event",
+          "runner_assertion": "Sowing consumes exactly one seed",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB014",
+          "name": "GB014",
+          "input_mode": "input_event",
+          "runner_assertion": "Unwatered seeds do not grow when time advances",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB015",
+          "name": "GB015",
+          "input_mode": "input_event",
+          "runner_assertion": "Watering starts growth",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB016",
+          "name": "GB016",
+          "input_mode": "input_event",
+          "runner_assertion": "Immature plants cannot be harvested",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB017",
+          "name": "GB017",
+          "input_mode": "input_event",
+          "runner_assertion": "Pause blocks time skip and freezes crop growth",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB018",
+          "name": "GB018",
+          "input_mode": "input_event",
+          "runner_assertion": "Escape resumes",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB019",
+          "name": "GB019",
+          "input_mode": "input_event",
+          "runner_assertion": "Mature vine opens a real walkable bridge",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB020",
+          "name": "GB020",
+          "input_mode": "input_event",
+          "runner_assertion": "Harvest returns two seeds and one material",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB021",
+          "name": "GB021",
+          "input_mode": "input_event",
+          "runner_assertion": "Bridge stays open after harvesting its plant",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB022",
+          "name": "GB022",
+          "input_mode": "input_event",
+          "runner_assertion": "A second interaction cannot double-award a harvest",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB023",
+          "name": "GB023",
+          "input_mode": "input_event",
+          "runner_assertion": "Uprooting refunds the planted seed",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB024",
+          "name": "GB024",
+          "input_mode": "input_event",
+          "runner_assertion": "Walk across the new bridge; checkpoint advances",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB025",
+          "name": "GB025",
+          "input_mode": "input_event",
+          "runner_assertion": "Collect the new seed species through interaction",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB026",
+          "name": "GB026",
+          "input_mode": "input_event",
+          "runner_assertion": "Seed cache cannot be collected twice",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB027",
+          "name": "GB027",
+          "input_mode": "input_event",
+          "runner_assertion": "Closed rubble physically blocks the third area",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB028",
+          "name": "GB028",
+          "input_mode": "input_event",
+          "runner_assertion": "Root mechanism plot is reachable before the barrier",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB029",
+          "name": "GB029",
+          "input_mode": "input_event",
+          "runner_assertion": "Wrong mature crop does not open the rock mechanism",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB030",
+          "name": "GB030",
+          "input_mode": "input_event",
+          "runner_assertion": "Wrong planting can be recovered without losing seeds",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB031",
+          "name": "GB031",
+          "input_mode": "input_event",
+          "runner_assertion": "Mature deep-root plant removes the rubble collision",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB032",
+          "name": "GB032",
+          "input_mode": "input_event",
+          "runner_assertion": "Walk through cleared gate to the source stone",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB033",
+          "name": "GB033",
+          "input_mode": "input_event",
+          "runner_assertion": "Awakening refuses insufficient materials",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB034",
+          "name": "GB034",
+          "input_mode": "input_event",
+          "runner_assertion": "Deep-root harvest gives the second material",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB035",
+          "name": "GB035",
+          "input_mode": "input_event",
+          "runner_assertion": "Complete the full loop and awaken the garden",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB036",
+          "name": "GB036",
+          "input_mode": "input_event",
+          "runner_assertion": "Mechanism unlocks and victory are each awarded once",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB037",
+          "name": "GB037",
+          "input_mode": "input_event",
+          "runner_assertion": "Post-victory interaction cannot charge or award again",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB038",
+          "name": "GB038",
+          "input_mode": "input_event",
+          "runner_assertion": "Newly unlocked final-area plots can be cultivated",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB039",
+          "name": "GB039",
+          "input_mode": "input_event",
+          "runner_assertion": "Manual return uses the final checkpoint and preserves progress",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB040",
+          "name": "GB040",
+          "input_mode": "input_event",
+          "runner_assertion": "Restart resets both mechanisms and victory",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB041",
+          "name": "GB041",
+          "input_mode": "input_event",
+          "runner_assertion": "Restart resets inventories and seed pickup",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB042",
+          "name": "GB042",
+          "input_mode": "input_event",
+          "runner_assertion": "Restart restores bridge and gate collision states",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB043",
+          "name": "GB043",
+          "input_mode": "input_event",
+          "runner_assertion": "Restart restores all plots and the player",
+          "expect": {
+            "passed": true
+          }
+        },
+        {
+          "id": "GB044",
+          "name": "GB044",
+          "input_mode": "input_event",
+          "runner_assertion": "Restart during growth leaves no late maturity or resource residue",
+          "expect": {
+            "passed": true
+          }
+        }
+      ],
+      "required_checks": [
+        "GB001",
+        "GB002",
+        "GB003",
+        "GB004",
+        "GB005",
+        "GB006",
+        "GB007",
+        "GB008",
+        "GB009",
+        "GB010",
+        "GB011",
+        "GB012",
+        "GB013",
+        "GB014",
+        "GB015",
+        "GB016",
+        "GB017",
+        "GB018",
+        "GB019",
+        "GB020",
+        "GB021",
+        "GB022",
+        "GB023",
+        "GB024",
+        "GB025",
+        "GB026",
+        "GB027",
+        "GB028",
+        "GB029",
+        "GB030",
+        "GB031",
+        "GB032",
+        "GB033",
+        "GB034",
+        "GB035",
+        "GB036",
+        "GB037",
+        "GB038",
+        "GB039",
+        "GB040",
+        "GB041",
+        "GB042",
+        "GB043",
+        "GB044"
+      ]
+    },
+    "source_paths": [
+      "res://art/production/garden_art.gd",
+      "res://art/production/garden_models.gd",
+      "res://art/production/garden_ground.gdshader",
+      "res://art/production/garden_look.gd",
+      "res://tests/smoke.gd"
+    ]
+  },
+  "model_provenance": "Actual authorized Lux3D tasks; immutable source GLBs"
+}

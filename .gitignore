@@ -1,0 +1,18 @@
+# Godot generated cache
+**/.godot/
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Original delivery packages are published as Release assets
+/*.zip

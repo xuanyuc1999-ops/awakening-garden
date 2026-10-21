@@ -1,0 +1,17 @@
+{
+  "path": "res://art/farmer-r1/assets/farmer-animation-clean.glb",
+  "sha256": "8a971e183fd663f6c18305330beb4e78bee90f76f1b169681dc9a77ee740f5a6",
+  "height": 1.78,
+  "yaw_degrees": 180,
+  "idle_clip": "animation_1",
+  "walk_clip": "animation_2",
+  "right_hand_bone": "mixamorig_RightHand",
+  "clip_mapping_basis": "Native rendered clips inspected: animation_1 standing idle 2.5s; animation_2 alternating raised legs walking 1.333s; not inferred solely from output order.",
+  "raw_source": "res://art/farmer-r1/assets/farmer-animation.glb",
+  "provider_tasks": [
+    "4239063",
+    "4239148",
+    "4239223"
+  ],
+  "local_repair": "Index-only removal of 13 needle or detached-hand triangles; source vertices/textures/skin/animations retained byte-for-byte"
+}

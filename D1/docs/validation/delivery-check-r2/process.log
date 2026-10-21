@@ -1,0 +1,65 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 610.88 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 3080
+
+PASS Farmer visual exposes get_report
+PASS Farmer visual is ready
+PASS Farmer contains a skeleton with bones
+PASS Farmer contains at least two animation clips
+PASS Farmer source SHA256 matches the supplied asset
+PASS Farmer preserves the player collider
+PASS Farmer bounds height is finite and positive
+PASS Refined ground assembled
+PASS Refined plants assembled
+PASS Refined environment assembled
+PASS Refinement preserves collider identities
+PASS Ground detail respects the tread limit
+PASS All 14 actual models assemble successfully
+PASS Normal startup opens the introduction
+PASS Start button is fully inside the viewport
+PASS Inventory is fully inside the viewport
+PASS Map is fully inside the viewport
+PASS Enter starts the game
+PASS Keyboard orbit rotates the real camera
+PASS Opposite orbit restores the forward heading
+PASS Interaction out of range changes no resources
+PASS Falling into the trench returns the player without resource loss
+PASS The correct bridge plot is reachable and highlighted
+PASS Till hard ground
+PASS Unavailable seeds cannot be planted
+PASS Sowing consumes exactly one seed
+PASS Unwatered seeds do not grow when time advances
+PASS Watering starts growth
+PASS Immature plants cannot be harvested
+PASS Pause blocks time skip and freezes crop growth
+PASS Escape resumes
+PASS Mature vine opens a real walkable bridge
+PASS Harvest returns two seeds and one material
+PASS Bridge stays open after harvesting its plant
+PASS A second interaction cannot double-award a harvest
+PASS Uprooting refunds the planted seed
+PASS The generated bridge center supports ordinary walking
+PASS Walk across the new bridge; checkpoint advances
+PASS Collect the new seed species through interaction
+PASS Seed cache cannot be collected twice
+PASS Closed rubble physically blocks the third area
+PASS Root mechanism plot is reachable before the barrier
+PASS Wrong mature crop does not open the rock mechanism
+PASS Wrong planting can be recovered without losing seeds
+PASS Mature deep-root plant removes the rubble collision
+PASS Walk through cleared gate to the source stone
+PASS Awakening refuses insufficient materials
+PASS Deep-root harvest gives the second material
+PASS Complete the full loop and awaken the garden
+PASS Mechanism unlocks and victory are each awarded once
+PASS Post-victory interaction cannot charge or award again
+PASS Newly unlocked final-area plots can be cultivated
+PASS Manual return uses the final checkpoint and preserves progress
+PASS Restart resets both mechanisms and victory
+PASS Restart resets inventories and seed pickup
+PASS Restart restores bridge and gate collision states
+PASS Restart restores all plots and the player
+PASS Restart during growth leaves no late maturity or resource residue
+PASS Production art preserves collider identities
+PASS Farmer actually switches idle and walk clips
+PASS Farmer collider remains unchanged after gameplay and restart
+GARDEN_SMOKE_PASS: 61 checks

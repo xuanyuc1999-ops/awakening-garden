@@ -1,0 +1,16 @@
+[gd_scene load_steps=5 format=3]
+[ext_resource type="PackedScene" path="res://art/farmer-r1/A1/play.tscn" id="1"]
+[ext_resource type="Script" path="res://art/refinement-r3/scene_detail.gd" id="2"]
+[ext_resource type="Script" path="res://art/refinement-r3/ground_detail.gd" id="3"]
+[ext_resource type="Script" path="res://art/refinement-r3/plant_detail.gd" id="4"]
+[node name="AwakeningGarden" instance=ExtResource("1")]
+[node name="_SceneDetail" type="Node3D" parent="."]
+script = ExtResource("2")
+style_id = "A1"
+manifest_path = "res://art/refinement-r3/A1/models.json"
+[node name="_GroundDetail" type="Node3D" parent="."]
+script = ExtResource("3")
+style_id = "A1"
+[node name="_PlantDetail" type="Node3D" parent="."]
+script = ExtResource("4")
+style_id = "A1"

@@ -1,0 +1,38 @@
+{
+  "style": "D1",
+  "models": {
+    "cliff": {
+      "path": "res://art/refinement-r3/assets/D1-cliff.glb",
+      "sha256": "11bbd5afd38c5245f19a289f177436f559a207cb57b213ba514e13eec83c6c48",
+      "task_id": "4239382",
+      "quoted_credits": 20,
+      "foliage_double_sided": true
+    },
+    "ruin": {
+      "path": "res://art/refinement-r3/assets/D1-ruin.glb",
+      "sha256": "1b37f946b05d41c8111bb3b3001818593fae52e551a13bfa6c600109a591cd6b",
+      "task_id": "4239392",
+      "quoted_credits": 20,
+      "foliage_double_sided": true
+    },
+    "flowers": {
+      "path": "res://art/refinement-r3/assets/D1-flowers.glb",
+      "sha256": "d7612ab52c0fc3be8a9f937603abf938d7aa9dc0224935c8f980dfda7a507ba6",
+      "task_id": "4239484",
+      "quoted_credits": 1,
+      "foliage_double_sided": true
+    },
+    "pier": {
+      "path": "res://art/refinement-r3/assets/D1-pier.glb",
+      "sha256": "3f1e0d2071778da788b5b477f549af3be314b7d08144c303a7cc9b14c6b9cfa3",
+      "raw_source": {
+        "path": "res://art/refinement-r3/assets/D1-ruin.glb",
+        "sha256": "1b37f946b05d41c8111bb3b3001818593fae52e551a13bfa6c600109a591cd6b",
+        "task_id": "4239392",
+        "quoted_credits": 20,
+        "foliage_double_sided": true
+      },
+      "foliage_double_sided": true
+    }
+  }
+}

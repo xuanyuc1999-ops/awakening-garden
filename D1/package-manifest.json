@@ -1,0 +1,1428 @@
+{
+  "style": "D1",
+  "revision": "refinement-r3",
+  "independent_native_project": true,
+  "validation": {
+    "passed": true,
+    "checks": 61,
+    "rendered_captures": 16,
+    "report": "docs/validation/delivery-check-r2/summary.json"
+  },
+  "files": [
+    {
+      "path": ".gitignore",
+      "size": 45,
+      "sha256": "9cbfd0d46cb9b2401c5330a99751b6b5c1c14c318da4cf99e18a6bb0290adf68"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-rock-runtime.glb",
+      "size": 8202196,
+      "sha256": "25b56f5984e2e03e3b6b993da4ae94e150fe4623451bb1da004d246706926aa7"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-rock-runtime.glb.import",
+      "size": 1202,
+      "sha256": "c23d54899e44d764caa20ba3c175ff182d27c3869801615c676760ecd1377686"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-rock-runtime_Image_0.png",
+      "size": 6344868,
+      "sha256": "4447b8c7adfc143b873652333960e9ac578e71efa1ebc5dfadc44b48e562f78a"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-rock-runtime_Image_0.png.import",
+      "size": 1081,
+      "sha256": "524f9750eaaec401a037966f5d8042d088d6e73614e83f1666da36bc19cbce01"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-rock-runtime_Image_1.png",
+      "size": 1190484,
+      "sha256": "2d65a021f81e2a8addbc11707b1782a953054abc83f1a81c830feb462868c2a9"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-rock-runtime_Image_1.png.import",
+      "size": 1080,
+      "sha256": "bb43782cffd1f6335a692f5cac94a3fa569c545f753d0a388d6de4900a072929"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_leafy-runtime.glb",
+      "size": 8482004,
+      "sha256": "ca6fcbe80569f119de208cfd30f3d9edc3991c128c67077db075634713a006e1"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_leafy-runtime.glb.import",
+      "size": 1220,
+      "sha256": "f1366864b73765329264e6add0a89f4a83d454434e4ed2791187b4ab320f8344"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_leafy-runtime_Image_0.png",
+      "size": 7161040,
+      "sha256": "15218de9fb0455b014574111b9be7ae8bd0fe47c9b6725bf80917532764c7f7a"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_leafy-runtime_Image_0.png.import",
+      "size": 1099,
+      "sha256": "c7095c85bb29f85eeb97813b9f14b6e1a8391c6a6bcee27887c510ac38afe60e"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_leafy-runtime_Image_1.png",
+      "size": 1198308,
+      "sha256": "fc8d96896cc8783ad317d56fa4f62a47ca6fba9a98f1f360ef1ce8864cd6e35a"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_leafy-runtime_Image_1.png.import",
+      "size": 1099,
+      "sha256": "ee402a91b552271d5408d502f2be1b29d79fc51bc2c0a13fdab2b0d4169fbe07"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_mature-runtime.glb",
+      "size": 8395068,
+      "sha256": "2cd777e0ace8fcfe5a6855d6eb3d3981556d04d263bf8fa892d59f96a72ccdcf"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_mature-runtime.glb.import",
+      "size": 1223,
+      "sha256": "14cc1b27b1f9bcbe2313a9a38e1a3e0dd6b8a68328d3e89d4b4533bc7cdee2ee"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_mature-runtime_Image_0.png",
+      "size": 6892120,
+      "sha256": "0a78a472f9449b6cfad4bf963407352e7dd6773988dc8f119ff3fe39c2957b89"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_mature-runtime_Image_0.png.import",
+      "size": 1102,
+      "sha256": "ba627a8160b737ddac76e9eca848b56a3a8dda461ae9a31bd50ba9ac0a03e1cf"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_mature-runtime_Image_1.png",
+      "size": 1307996,
+      "sha256": "3fd427e824c8e9af77ed7294681cd465e3dd2968d362ebb53a2689e8dc071413"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_mature-runtime_Image_1.png.import",
+      "size": 1102,
+      "sha256": "425bb6f19d237ebf08a9b2a178d4c9b7011db9488b8ae9db31bdda81ee8414ac"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_seed-runtime.glb",
+      "size": 7654392,
+      "sha256": "7a4423a6a063043cc6a41d2897daaf341422efaffe9ef6d1df5a49d12764581b"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_seed-runtime.glb.import",
+      "size": 1217,
+      "sha256": "c91541b8f58b2f4cc41c51e541c2ca824dccc31a4694281b034636484eff53ff"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_seed-runtime_Image_0.png",
+      "size": 6476236,
+      "sha256": "e3c4884048875f2a004fbfe73b6952d47873c16b80a1222180f04fc74140ceb3"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_seed-runtime_Image_0.png.import",
+      "size": 1094,
+      "sha256": "b745cfde4d88414f190ff29689496cd4e17abb99af92e683a9cbeeb3efa5a0d8"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_seed-runtime_Image_1.png",
+      "size": 1151028,
+      "sha256": "cb69d0a3b2783e26e6b1303186eabf6c3ddf9cee2b151026ea14af787f77cae9"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_seed-runtime_Image_1.png.import",
+      "size": 1095,
+      "sha256": "4895a364668dca8e5cee613d756d52879d50a0487252de6bd47a831b62b711ae"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_sprout-runtime.glb",
+      "size": 7466792,
+      "sha256": "2d2b5593a9658c2b16861ba3fb660d340a7613ef727fa3f3a43f423153ae0978"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_sprout-runtime.glb.import",
+      "size": 1223,
+      "sha256": "d3ec7a8749f61c465ad6dfb45e55966aa5d8cb1751867e1bcadbeeb106e16327"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_sprout-runtime_Image_0.png",
+      "size": 6140432,
+      "sha256": "022077b81dd20ac626da8dd7155549595ea6256a49f75125a412cc513856a685"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_sprout-runtime_Image_0.png.import",
+      "size": 1101,
+      "sha256": "edea18cb082b6d8b480109517ba4341590513ab1a670fccd27119cb41a178f10"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_sprout-runtime_Image_1.png",
+      "size": 1270864,
+      "sha256": "ed19e33f505486696e99de8cdc624ca4e2d39c7ef5d574b5af1e181e02d9c9ec"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-root_sprout-runtime_Image_1.png.import",
+      "size": 1102,
+      "sha256": "f6acc18de6fb2f0bc81e314879fbd86cee32da9a95f8a45804df8166f2d4db21"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-soil-runtime.glb",
+      "size": 9320808,
+      "sha256": "87c0b3140f62dd452992814848607e5f23d539cef4c538bbb6cb6d45d7db8290"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-soil-runtime.glb.import",
+      "size": 1202,
+      "sha256": "135f10a6aeeed2a2bee52f639430b177f422d16ab29781e85b6d667ef4917af4"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-soil-runtime_Image_0.png",
+      "size": 7031868,
+      "sha256": "37e77bba1c50be55d11472df2551587b9eaa93115ddccdd646a9b40c21bcab5d"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-soil-runtime_Image_0.png.import",
+      "size": 1081,
+      "sha256": "7e203ddaa00c215d45f6bd9ff5e5cc91d905aa73e6df36023cee4a993a903e33"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-soil-runtime_Image_1.png",
+      "size": 2065252,
+      "sha256": "154aad4ac499227cd09b906dbc2bb1d00fdedd969f9c4c15794b3c6b43fcc5b0"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-soil-runtime_Image_1.png.import",
+      "size": 1079,
+      "sha256": "c7cf6c397637106bae95f6baf6041a19ef890ac7c46801207d9a1fc4aa7af7c2"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-vine_leafy-runtime.glb",
+      "size": 8903248,
+      "sha256": "15483cf2fc0bcbd2f8816d789a0c2d91369ef0ec40bf43ce0675993833f60d80"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-vine_leafy-runtime.glb.import",
+      "size": 1219,
+      "sha256": "8eb7dc26fdb96ad0a14c86da01a7521e2451b1fffff1226e179c0fd73251626f"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-vine_leafy-runtime_Image_0.png",
+      "size": 6437108,
+      "sha256": "33b625d127c5895a734e1a90f5aefe88c57f0739b1cbb7744e18bf50ef0bd24e"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-vine_leafy-runtime_Image_0.png.import",
+      "size": 1099,
+      "sha256": "5534bce59fcaee44b6c3eb01407a930ac140f437c019f47bd3f7f55571fcbb66"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-vine_leafy-runtime_Image_1.png",
+      "size": 2347256,
+      "sha256": "67727d4e196e03eceff9d9a1b63c3b8b687c1f008c6881483b4b60872da01dfb"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-vine_leafy-runtime_Image_1.png.import",
+      "size": 1099,
+      "sha256": "9b507466cc2b692e66e97b5f5dede1dd215266c79ab6ebceffa85b669957f09c"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-vine_seed-runtime.glb",
+      "size": 6872316,
+      "sha256": "1e525017af7653b4b7bbbc7c7e581946b9740001bddde8b3fc00d31af6e875e7"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-vine_seed-runtime.glb.import",
+      "size": 1216,
+      "sha256": "82df61bb4b205d577b83ee509863bae54ad86ca812a2f34f21a87d4e33a0050b"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-vine_seed-runtime_Image_0.png",
+      "size": 6020288,
+      "sha256": "b8a55fdb0383354cf7859657e458a1c3c59769536623a9ff193d072abd46c7e4"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-vine_seed-runtime_Image_0.png.import",
+      "size": 1096,
+      "sha256": "415e7b1110a65929f7a611de757b5dae6d68e52dd3eb74ad938503ac2be8835a"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-vine_seed-runtime_Image_1.png",
+      "size": 828448,
+      "sha256": "ebcb04a28b81aa697bb33ed22942ccbcc5852adb7b8e40d7bfd6a117a0c74ddd"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-vine_seed-runtime_Image_1.png.import",
+      "size": 1096,
+      "sha256": "6bf08f77b5cf783865593201696bbc0ae7907e99eb2e96045c684ec31e224a21"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-vine_sprout-runtime.glb",
+      "size": 8486616,
+      "sha256": "ccf882309adc54fdd72297ebc0586ea6730b329a2c4e819f7018059f61b53dd4"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-vine_sprout-runtime.glb.import",
+      "size": 1223,
+      "sha256": "bb46e2ab5c625a37aca44d1fcf040b7cf8c759744daf128da4e9cbe7e384b44a"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-vine_sprout-runtime_Image_0.png",
+      "size": 6162692,
+      "sha256": "bb3a5461b3453bff02c6230537b6b6c5fe31ec17ecd5637f15b84be076423a0a"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-vine_sprout-runtime_Image_0.png.import",
+      "size": 1102,
+      "sha256": "e8759757de638510b564c6674b1d62e0b69ec7c7593323d4fa57698affed9ee5"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-vine_sprout-runtime_Image_1.png",
+      "size": 2270760,
+      "sha256": "fbd1c8c9768e771d70050ec2e42d76c7a83bd28fbde4b69747a48cb2761dfbe1"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-vine_sprout-runtime_Image_1.png.import",
+      "size": 1102,
+      "sha256": "ef430cf626d4f95ec9b2d43819538cf5058d37f5320c3bef210f70df522f0fd3"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-watering_can-runtime.glb",
+      "size": 5651508,
+      "sha256": "6aa0e5b3fc9a969acced1b379d95430b398850068e0f59c795e27ea6c1a133ab"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-watering_can-runtime.glb.import",
+      "size": 1226,
+      "sha256": "cfe74b574a12e00af0f4aff998d8c528cbc0e7dcb4ad51468d788a200d8f3175"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-watering_can-runtime_Image_0.png",
+      "size": 3743128,
+      "sha256": "7f23bc6be43a21eb19da0be85d303c43d39d2cebc77d0988723a1fb697ee18ce"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-watering_can-runtime_Image_0.png.import",
+      "size": 1105,
+      "sha256": "d96773976af3e10865747a678d09eb8d1905c176c5baf9f2797eb21be8c13e9b"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-watering_can-runtime_Image_1.png",
+      "size": 1591480,
+      "sha256": "69bacf7d8f66ad262fc5c840644ca3f101505b2af344e06a7b96565e744c0157"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/derived/lod/D1-watering_can-runtime_Image_1.png.import",
+      "size": 1104,
+      "sha256": "6ab1c8daa00e4b2459ad660f2f3b298a0ce6963f4e07d83e834d5c4823168678"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-bridge/4d9261084bd2597854b8ed1208eed84b8cbc6597adf7ff9f602ae7c9feddb1de.glb",
+      "size": 8961788,
+      "sha256": "4d9261084bd2597854b8ed1208eed84b8cbc6597adf7ff9f602ae7c9feddb1de"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-bridge/4d9261084bd2597854b8ed1208eed84b8cbc6597adf7ff9f602ae7c9feddb1de.glb.import",
+      "size": 1356,
+      "sha256": "4dd80faef080392430dd262a21e8744bf28bed464797a197a11a095ebcd7c574"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-bridge/4d9261084bd2597854b8ed1208eed84b8cbc6597adf7ff9f602ae7c9feddb1de_0.png",
+      "size": 5707076,
+      "sha256": "f3b9b80cd86c60f302a089e2baf0ba4a7907256d610bb9517d2969ae4c27e7c5"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-bridge/4d9261084bd2597854b8ed1208eed84b8cbc6597adf7ff9f602ae7c9feddb1de_0.png.import",
+      "size": 1218,
+      "sha256": "ecb9dbe1d4c75821d15ee0d675a44b2c407032640be2a854d75999933d1ad72e"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-bridge/4d9261084bd2597854b8ed1208eed84b8cbc6597adf7ff9f602ae7c9feddb1de_1.png",
+      "size": 2270608,
+      "sha256": "62118d075796ba7fa27e15a030d6e1008533efad7246c1406d5d73702c2ea397"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-bridge/4d9261084bd2597854b8ed1208eed84b8cbc6597adf7ff9f602ae7c9feddb1de_1.png.import",
+      "size": 1216,
+      "sha256": "92d20c8588cd410a8b01fd2f4d7fa1c5c812e3007550878619da7cf66b6720c6"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-rock/59e666a9fc097a0c4521086ee80a2e744761212f4a362033445d9e01fba8bfbb.glb",
+      "size": 8411524,
+      "sha256": "59e666a9fc097a0c4521086ee80a2e744761212f4a362033445d9e01fba8bfbb"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-rock/59e666a9fc097a0c4521086ee80a2e744761212f4a362033445d9e01fba8bfbb.glb.import",
+      "size": 1355,
+      "sha256": "6469ec5b2459e17a10d16beb807c0b9939f5852a2170bce9f1cc38f04f23d628"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-rock/59e666a9fc097a0c4521086ee80a2e744761212f4a362033445d9e01fba8bfbb_0.png",
+      "size": 6344868,
+      "sha256": "4447b8c7adfc143b873652333960e9ac578e71efa1ebc5dfadc44b48e562f78a"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-rock/59e666a9fc097a0c4521086ee80a2e744761212f4a362033445d9e01fba8bfbb_0.png.import",
+      "size": 1215,
+      "sha256": "58ac77c56c59b3d02de8b3f4be1ecd292b874b97f1d22bbdd506c142519b8998"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-rock/59e666a9fc097a0c4521086ee80a2e744761212f4a362033445d9e01fba8bfbb_1.png",
+      "size": 1190484,
+      "sha256": "2d65a021f81e2a8addbc11707b1782a953054abc83f1a81c830feb462868c2a9"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-rock/59e666a9fc097a0c4521086ee80a2e744761212f4a362033445d9e01fba8bfbb_1.png.import",
+      "size": 1216,
+      "sha256": "76f4a9fcf173cbe7225c0b07bbd1687eca971721e93c461adbcea178487488f5"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_leafy/dab011bda53382d7462d5c67c943e72b652184e17e734795c11bf6c7529ac1d0.glb",
+      "size": 8767972,
+      "sha256": "dab011bda53382d7462d5c67c943e72b652184e17e734795c11bf6c7529ac1d0"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_leafy/dab011bda53382d7462d5c67c943e72b652184e17e734795c11bf6c7529ac1d0.glb.import",
+      "size": 1360,
+      "sha256": "c51e0a2aaf3730635f0db69ba807d61a1007c1de74d1c378a6b001ace28276ac"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_leafy/dab011bda53382d7462d5c67c943e72b652184e17e734795c11bf6c7529ac1d0_0.png",
+      "size": 7161040,
+      "sha256": "15218de9fb0455b014574111b9be7ae8bd0fe47c9b6725bf80917532764c7f7a"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_leafy/dab011bda53382d7462d5c67c943e72b652184e17e734795c11bf6c7529ac1d0_0.png.import",
+      "size": 1222,
+      "sha256": "fa7f12997a0ff24a43a20d0fe6d8d44ec604f39ed06256f4130ff7b36ac2b382"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_leafy/dab011bda53382d7462d5c67c943e72b652184e17e734795c11bf6c7529ac1d0_1.png",
+      "size": 1198308,
+      "sha256": "fc8d96896cc8783ad317d56fa4f62a47ca6fba9a98f1f360ef1ce8864cd6e35a"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_leafy/dab011bda53382d7462d5c67c943e72b652184e17e734795c11bf6c7529ac1d0_1.png.import",
+      "size": 1222,
+      "sha256": "e519118cea55f75a4cd7ee013c2c051093f49089e5e281b961f43c62a892c53f"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_mature/1517d85836b01401d1f246cad34002b08ed6afad905a3641e80aaf752b964e72.glb",
+      "size": 9014076,
+      "sha256": "1517d85836b01401d1f246cad34002b08ed6afad905a3641e80aaf752b964e72"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_mature/1517d85836b01401d1f246cad34002b08ed6afad905a3641e80aaf752b964e72.glb.import",
+      "size": 1362,
+      "sha256": "f1decd18f0344dfc0fbd00c8a628949b37cafe3d52d728b7952972cec51d5579"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_mature/1517d85836b01401d1f246cad34002b08ed6afad905a3641e80aaf752b964e72_0.png",
+      "size": 6892120,
+      "sha256": "0a78a472f9449b6cfad4bf963407352e7dd6773988dc8f119ff3fe39c2957b89"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_mature/1517d85836b01401d1f246cad34002b08ed6afad905a3641e80aaf752b964e72_0.png.import",
+      "size": 1222,
+      "sha256": "ba99f26b53a082e1834a34d86fedf41d271da9e1ada733594095b03f9c597159"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_mature/1517d85836b01401d1f246cad34002b08ed6afad905a3641e80aaf752b964e72_1.png",
+      "size": 1307996,
+      "sha256": "3fd427e824c8e9af77ed7294681cd465e3dd2968d362ebb53a2689e8dc071413"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_mature/1517d85836b01401d1f246cad34002b08ed6afad905a3641e80aaf752b964e72_1.png.import",
+      "size": 1223,
+      "sha256": "164aa0dc3f4dd276ac475cfdf77e784e44f4140fdc2a2481a8986dd4bdb83898"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_seed/1ae0d7ce4b8b269beac95ce432a0f574d633c0b27b0765f0b07a3ba35bbaf492.glb",
+      "size": 7977240,
+      "sha256": "1ae0d7ce4b8b269beac95ce432a0f574d633c0b27b0765f0b07a3ba35bbaf492"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_seed/1ae0d7ce4b8b269beac95ce432a0f574d633c0b27b0765f0b07a3ba35bbaf492.glb.import",
+      "size": 1360,
+      "sha256": "2d3ccda1b04fa7a68e840b78a4b488553891f9beef067d80f581fa51c254e9c2"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_seed/1ae0d7ce4b8b269beac95ce432a0f574d633c0b27b0765f0b07a3ba35bbaf492_0.png",
+      "size": 6476236,
+      "sha256": "e3c4884048875f2a004fbfe73b6952d47873c16b80a1222180f04fc74140ceb3"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_seed/1ae0d7ce4b8b269beac95ce432a0f574d633c0b27b0765f0b07a3ba35bbaf492_0.png.import",
+      "size": 1220,
+      "sha256": "f5c04edbe1ca2ec6ad0094da6e45ce7f741deeb6543cfa1d6a16eae1ee949aa2"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_seed/1ae0d7ce4b8b269beac95ce432a0f574d633c0b27b0765f0b07a3ba35bbaf492_1.png",
+      "size": 1151028,
+      "sha256": "cb69d0a3b2783e26e6b1303186eabf6c3ddf9cee2b151026ea14af787f77cae9"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_seed/1ae0d7ce4b8b269beac95ce432a0f574d633c0b27b0765f0b07a3ba35bbaf492_1.png.import",
+      "size": 1221,
+      "sha256": "19b98f0648c3e0d1311d5cfe36fd6d87860dfce2b96ba7f686abb74e2fd88f37"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_sprout/c106860083b4792c05c3080c91ab931d149c43fe1208816b0ee803887686ea75.glb",
+      "size": 7765360,
+      "sha256": "c106860083b4792c05c3080c91ab931d149c43fe1208816b0ee803887686ea75"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_sprout/c106860083b4792c05c3080c91ab931d149c43fe1208816b0ee803887686ea75.glb.import",
+      "size": 1361,
+      "sha256": "faccffe9dcd30a008ff03d434c742e429edb54274a3364dc250b16d35ae76497"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_sprout/c106860083b4792c05c3080c91ab931d149c43fe1208816b0ee803887686ea75_0.png",
+      "size": 6140432,
+      "sha256": "022077b81dd20ac626da8dd7155549595ea6256a49f75125a412cc513856a685"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_sprout/c106860083b4792c05c3080c91ab931d149c43fe1208816b0ee803887686ea75_0.png.import",
+      "size": 1223,
+      "sha256": "7742baba03fa4a73be7c1604ac9e6c4bf6b7a1a61e392e008abb2d1cc6b03e7b"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_sprout/c106860083b4792c05c3080c91ab931d149c43fe1208816b0ee803887686ea75_1.png",
+      "size": 1270864,
+      "sha256": "ed19e33f505486696e99de8cdc624ca4e2d39c7ef5d574b5af1e181e02d9c9ec"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-root_sprout/c106860083b4792c05c3080c91ab931d149c43fe1208816b0ee803887686ea75_1.png.import",
+      "size": 1223,
+      "sha256": "d5b13527fccc23d6c1fe228849f1063670adfa71194a34992a6ec69ce4fffa07"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-soil/989d7bbcc20288463706acb7f327fbf2246352031bd0413d0ccfb1d05fc8ecfa.glb",
+      "size": 9573792,
+      "sha256": "989d7bbcc20288463706acb7f327fbf2246352031bd0413d0ccfb1d05fc8ecfa"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-soil/989d7bbcc20288463706acb7f327fbf2246352031bd0413d0ccfb1d05fc8ecfa.glb.import",
+      "size": 1355,
+      "sha256": "21a08232bbdd89b46eb06ad419a0aa0bc1597a57b8d375fe3b533a77b324adfe"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-soil/989d7bbcc20288463706acb7f327fbf2246352031bd0413d0ccfb1d05fc8ecfa_0.png",
+      "size": 7031868,
+      "sha256": "37e77bba1c50be55d11472df2551587b9eaa93115ddccdd646a9b40c21bcab5d"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-soil/989d7bbcc20288463706acb7f327fbf2246352031bd0413d0ccfb1d05fc8ecfa_0.png.import",
+      "size": 1216,
+      "sha256": "333189e96a7baed57cc6019d96ca2d6c242ec56d0de2b9378c11c76be4a504e8"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-soil/989d7bbcc20288463706acb7f327fbf2246352031bd0413d0ccfb1d05fc8ecfa_1.png",
+      "size": 2065252,
+      "sha256": "154aad4ac499227cd09b906dbc2bb1d00fdedd969f9c4c15794b3c6b43fcc5b0"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-soil/989d7bbcc20288463706acb7f327fbf2246352031bd0413d0ccfb1d05fc8ecfa_1.png.import",
+      "size": 1216,
+      "sha256": "e258e5ecfeac0ef1bffcdb53e5be085c3e40498fa2481637a9f441cb1bf23581"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-stele/97a054465432ba748f480513130f2e8462aa2c3781cfd242cb3639be0e0ed2a4.glb",
+      "size": 7502248,
+      "sha256": "97a054465432ba748f480513130f2e8462aa2c3781cfd242cb3639be0e0ed2a4"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-stele/97a054465432ba748f480513130f2e8462aa2c3781cfd242cb3639be0e0ed2a4.glb.import",
+      "size": 1355,
+      "sha256": "e0d56302acd13eba60ac01e6b998745d686277ea71b39f7f93931fbb1e779db5"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-stele/97a054465432ba748f480513130f2e8462aa2c3781cfd242cb3639be0e0ed2a4_0.png",
+      "size": 4776668,
+      "sha256": "4e47fa1baf0195f10539593f37f2546d4ab771d9fed2af3c72b29cb6b07ee555"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-stele/97a054465432ba748f480513130f2e8462aa2c3781cfd242cb3639be0e0ed2a4_0.png.import",
+      "size": 1214,
+      "sha256": "687d970513313f36eeca9f876e37fb7bbaa9058ca7e534e6a00212be48c90cb8"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-stele/97a054465432ba748f480513130f2e8462aa2c3781cfd242cb3639be0e0ed2a4_1.png",
+      "size": 1913044,
+      "sha256": "9110aa86464386fd72eb697a9864673c7e62c122a109d6dc8987be4f0049e27b"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-stele/97a054465432ba748f480513130f2e8462aa2c3781cfd242cb3639be0e0ed2a4_1.png.import",
+      "size": 1216,
+      "sha256": "6af9784253752e28f8bc20fbb46eb7832615b0374435ef89c9069509ac309b4c"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-tree/a4deb079a99aac3392da02e9f17a714912a1d98db7702ddd329670296cc9db80.glb",
+      "size": 10232764,
+      "sha256": "a4deb079a99aac3392da02e9f17a714912a1d98db7702ddd329670296cc9db80"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-tree/a4deb079a99aac3392da02e9f17a714912a1d98db7702ddd329670296cc9db80.glb.import",
+      "size": 1354,
+      "sha256": "fc42fd3dde540cd64094f1f1e12ae5fe96c8c1f061cbc44a5e831493a9f1fe41"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-tree/a4deb079a99aac3392da02e9f17a714912a1d98db7702ddd329670296cc9db80_0.png",
+      "size": 5340072,
+      "sha256": "b4dfa8e2d3d9ea614da16e160a5ad26469446da1c02e35f63da9e4854ab6c42c"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-tree/a4deb079a99aac3392da02e9f17a714912a1d98db7702ddd329670296cc9db80_0.png.import",
+      "size": 1216,
+      "sha256": "d469b635dd17aadf0f393c9a4e6e064c7b193603f132322b0972f801976c0843"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-tree/a4deb079a99aac3392da02e9f17a714912a1d98db7702ddd329670296cc9db80_1.png",
+      "size": 3333968,
+      "sha256": "9bae0ce78c7b83b067219e79e6dca83069ab4e47d87a38eb5c7649964df964e9"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-tree/a4deb079a99aac3392da02e9f17a714912a1d98db7702ddd329670296cc9db80_1.png.import",
+      "size": 1216,
+      "sha256": "eadc88e034ca739d07322a42737b514168b407c462386a132801a71a94f2713d"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_leafy/5f47086dee5812780abff98768c949f9e3ff6f4f14c6a66b2517c4ed02102f0a.glb",
+      "size": 9186652,
+      "sha256": "5f47086dee5812780abff98768c949f9e3ff6f4f14c6a66b2517c4ed02102f0a"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_leafy/5f47086dee5812780abff98768c949f9e3ff6f4f14c6a66b2517c4ed02102f0a.glb.import",
+      "size": 1361,
+      "sha256": "24b1ad62ada29917b01e965224b702c51a945d7a9defecd5d6cf7fbf5ba56352"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_leafy/5f47086dee5812780abff98768c949f9e3ff6f4f14c6a66b2517c4ed02102f0a_0.png",
+      "size": 6437108,
+      "sha256": "33b625d127c5895a734e1a90f5aefe88c57f0739b1cbb7744e18bf50ef0bd24e"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_leafy/5f47086dee5812780abff98768c949f9e3ff6f4f14c6a66b2517c4ed02102f0a_0.png.import",
+      "size": 1222,
+      "sha256": "73733e03f416d83b479afec04d5a77a4ef5403578478a0d4512e9aea8436a237"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_leafy/5f47086dee5812780abff98768c949f9e3ff6f4f14c6a66b2517c4ed02102f0a_1.png",
+      "size": 2347256,
+      "sha256": "67727d4e196e03eceff9d9a1b63c3b8b687c1f008c6881483b4b60872da01dfb"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_leafy/5f47086dee5812780abff98768c949f9e3ff6f4f14c6a66b2517c4ed02102f0a_1.png.import",
+      "size": 1222,
+      "sha256": "b6f6416d900f095e37d4ec8d9eaed9ef2490405bb7a7e0c814c47dc9ea0e8cc0"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_mature/8fd554aeba8918560ebf4e7cca3a2e7f3ea15ae52b0dac87a32a3fa8da68a73f.glb",
+      "size": 6841976,
+      "sha256": "8fd554aeba8918560ebf4e7cca3a2e7f3ea15ae52b0dac87a32a3fa8da68a73f"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_mature/8fd554aeba8918560ebf4e7cca3a2e7f3ea15ae52b0dac87a32a3fa8da68a73f.glb.import",
+      "size": 1362,
+      "sha256": "9651841a08d71e9172aa662d2f722eb68de03752af3233f04d470d0c4b8f622b"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_mature/8fd554aeba8918560ebf4e7cca3a2e7f3ea15ae52b0dac87a32a3fa8da68a73f_0.png",
+      "size": 4673968,
+      "sha256": "fc55993c075f0ef62db9133e6ff32eec1de2d671d2fcc3eb869c29d2a4aa1a18"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_mature/8fd554aeba8918560ebf4e7cca3a2e7f3ea15ae52b0dac87a32a3fa8da68a73f_0.png.import",
+      "size": 1223,
+      "sha256": "2a0a7f87bc982f660a5b1f5929a994195b285d21f65ad6feaa45d1788602137e"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_mature/8fd554aeba8918560ebf4e7cca3a2e7f3ea15ae52b0dac87a32a3fa8da68a73f_1.png",
+      "size": 1358456,
+      "sha256": "d742dbdf135e9f5c495db9d92c688b1bbbde9ffb150370e851ef6d19a3c36b05"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_mature/8fd554aeba8918560ebf4e7cca3a2e7f3ea15ae52b0dac87a32a3fa8da68a73f_1.png.import",
+      "size": 1223,
+      "sha256": "60fda09a706ce39f61cea26bb1234e8017a483b7af2eb1187b294570b94f2b94"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_seed/f9cbd0ff3fd69ec2d261d1061fcb010350bab8660049e0da5834fde0e734424b.glb",
+      "size": 7161860,
+      "sha256": "f9cbd0ff3fd69ec2d261d1061fcb010350bab8660049e0da5834fde0e734424b"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_seed/f9cbd0ff3fd69ec2d261d1061fcb010350bab8660049e0da5834fde0e734424b.glb.import",
+      "size": 1360,
+      "sha256": "183d25fa14d1aa7a2aaef10e8b88cadb933c66aa55f29ff123f39d301a21cde7"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_seed/f9cbd0ff3fd69ec2d261d1061fcb010350bab8660049e0da5834fde0e734424b_0.png",
+      "size": 6020288,
+      "sha256": "b8a55fdb0383354cf7859657e458a1c3c59769536623a9ff193d072abd46c7e4"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_seed/f9cbd0ff3fd69ec2d261d1061fcb010350bab8660049e0da5834fde0e734424b_0.png.import",
+      "size": 1221,
+      "sha256": "c1aad3909794d49d8c7070c27f5d14c13d9749b087e7d61da7285fb0d34459b2"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_seed/f9cbd0ff3fd69ec2d261d1061fcb010350bab8660049e0da5834fde0e734424b_1.png",
+      "size": 828448,
+      "sha256": "ebcb04a28b81aa697bb33ed22942ccbcc5852adb7b8e40d7bfd6a117a0c74ddd"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_seed/f9cbd0ff3fd69ec2d261d1061fcb010350bab8660049e0da5834fde0e734424b_1.png.import",
+      "size": 1221,
+      "sha256": "11c654a138b0a9ab39d992a0c7ae3bf21169205e355fc1549c07cc616d589c2d"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_sprout/82f10a117ea3dc27805ba8eea53ee160e03f1e67d95120493070f722a21b9b22.glb",
+      "size": 8766668,
+      "sha256": "82f10a117ea3dc27805ba8eea53ee160e03f1e67d95120493070f722a21b9b22"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_sprout/82f10a117ea3dc27805ba8eea53ee160e03f1e67d95120493070f722a21b9b22.glb.import",
+      "size": 1362,
+      "sha256": "aa17fcd1fffc1fd4631285607a4896ffdcd673e2f666535b80f066897f9ca08a"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_sprout/82f10a117ea3dc27805ba8eea53ee160e03f1e67d95120493070f722a21b9b22_0.png",
+      "size": 6162692,
+      "sha256": "bb3a5461b3453bff02c6230537b6b6c5fe31ec17ecd5637f15b84be076423a0a"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_sprout/82f10a117ea3dc27805ba8eea53ee160e03f1e67d95120493070f722a21b9b22_0.png.import",
+      "size": 1223,
+      "sha256": "e0233bc8cc9871862d651189700923390a8b64833b04ab0da188b47315ff0917"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_sprout/82f10a117ea3dc27805ba8eea53ee160e03f1e67d95120493070f722a21b9b22_1.png",
+      "size": 2270760,
+      "sha256": "fbd1c8c9768e771d70050ec2e42d76c7a83bd28fbde4b69747a48cb2761dfbe1"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-vine_sprout/82f10a117ea3dc27805ba8eea53ee160e03f1e67d95120493070f722a21b9b22_1.png.import",
+      "size": 1223,
+      "sha256": "a0ece89f80ce04b5894ac06319f270a3e7ff8cedc6aad01e282b8d35ee7805d6"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-watering_can/a8fde292009ccf660a11f0916494e253fed60063e8a5beae7bada447a6620dc2.glb",
+      "size": 6236708,
+      "sha256": "a8fde292009ccf660a11f0916494e253fed60063e8a5beae7bada447a6620dc2"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-watering_can/a8fde292009ccf660a11f0916494e253fed60063e8a5beae7bada447a6620dc2.glb.import",
+      "size": 1363,
+      "sha256": "317650116da42b29edb36bb2e09271ba173949cd006270075af4eb5a40614e75"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-watering_can/a8fde292009ccf660a11f0916494e253fed60063e8a5beae7bada447a6620dc2_0.png",
+      "size": 3743128,
+      "sha256": "7f23bc6be43a21eb19da0be85d303c43d39d2cebc77d0988723a1fb697ee18ce"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-watering_can/a8fde292009ccf660a11f0916494e253fed60063e8a5beae7bada447a6620dc2_0.png.import",
+      "size": 1224,
+      "sha256": "71f87391a96b9f46f58e50a09858c993a320b288c3c237cea6a29e1d0e6b8d5a"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-watering_can/a8fde292009ccf660a11f0916494e253fed60063e8a5beae7bada447a6620dc2_1.png",
+      "size": 1591480,
+      "sha256": "69bacf7d8f66ad262fc5c840644ca3f101505b2af344e06a7b96565e744c0157"
+    },
+    {
+      "path": "art/experiments/garden-art-r1/downloads/D1-watering_can/a8fde292009ccf660a11f0916494e253fed60063e8a5beae7bada447a6620dc2_1.png.import",
+      "size": 1224,
+      "sha256": "f3b4b1d8687a3c611ef7238d241e86a8e51990c32cbccdec83aa24c32686eaaa"
+    },
+    {
+      "path": "art/experiments/garden-art-sample-r2/D1/models.json",
+      "size": 22266,
+      "sha256": "b1d27d251e67a41d8befaa2c39445a2778606584617986dff94cee78faf995ae"
+    },
+    {
+      "path": "art/experiments/garden-art-sample-r2/D1/play.tscn",
+      "size": 575,
+      "sha256": "8a84854f496fa7784b394e90bb4f7697214fb85ed365302d2699cd856e2a55bc"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-animation-clean.glb",
+      "size": 15254800,
+      "sha256": "8a971e183fd663f6c18305330beb4e78bee90f76f1b169681dc9a77ee740f5a6"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-animation-clean.glb.import",
+      "size": 1202,
+      "sha256": "0a3c975587ae87dbe8aca2d1cddf8b09b7a86fd1363ade60951a99d187728eea"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-animation-clean_0.png",
+      "size": 3727924,
+      "sha256": "4a250a53030664052575f86dbb8d501d6eecb48d081771cd4b8ad5e78c347d63"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-animation-clean_0.png.import",
+      "size": 1063,
+      "sha256": "2ba2983d263f1defb54a790cdfe2966f294d1a489d282ff655be569d2c97a6ec"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-animation-clean_1.png",
+      "size": 1026836,
+      "sha256": "b6a551166fa3b8ca9cf2d59cbb7e1ee16aea370eb8567f4dd0e05e65f26f8fe5"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-animation-clean_1.png.import",
+      "size": 1063,
+      "sha256": "5e9bec89c076b8f713962fdf8c3d19aa5532b7ad7ecbee64c02c305af8a924c6"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-animation.glb",
+      "size": 14673632,
+      "sha256": "3bcb17f4169afb6671b6ebddb4f50aa0395cb9f649b5e90cdf8b202c74198a91"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-animation.glb.import",
+      "size": 1183,
+      "sha256": "01d1ba02b0cc5fd48b9002340d38225d2932319bb7a739af46306f8a85ed5c1a"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-animation_0.png",
+      "size": 3727924,
+      "sha256": "4a250a53030664052575f86dbb8d501d6eecb48d081771cd4b8ad5e78c347d63"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-animation_0.png.import",
+      "size": 1045,
+      "sha256": "2f3918484e2d19c900f8925675df991118dcb3fc78311e60a9ffbde35dd186e5"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-animation_1.png",
+      "size": 1026836,
+      "sha256": "b6a551166fa3b8ca9cf2d59cbb7e1ee16aea370eb8567f4dd0e05e65f26f8fe5"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-animation_1.png.import",
+      "size": 1045,
+      "sha256": "cd63736733dbc58a484257d35503321853fb1eddf9fd88103016cc53407185dd"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-model.glb",
+      "size": 6981920,
+      "sha256": "e4e3115d29734079500eb6fd8c9d0d4ffb41c15cbe204de86aa879030bc89f0d"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-model.glb.import",
+      "size": 1172,
+      "sha256": "ab1d664c4082614436dfac997e3d41e14a0d4ca1ad262ecd7dfdabfd55e847bc"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-model_0.png",
+      "size": 3727924,
+      "sha256": "4a250a53030664052575f86dbb8d501d6eecb48d081771cd4b8ad5e78c347d63"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-model_0.png.import",
+      "size": 1033,
+      "sha256": "d914e19eb7a3642b1395f2386b1c08e5187934cdb8a5eaff0aa1a2f6dd7429ae"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-model_1.png",
+      "size": 1026836,
+      "sha256": "b6a551166fa3b8ca9cf2d59cbb7e1ee16aea370eb8567f4dd0e05e65f26f8fe5"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-model_1.png.import",
+      "size": 1032,
+      "sha256": "0093ba82d33d3d6dc86d6f46c54b004cd2c0ddec51058591fd0c8a6e5938b579"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-rig.glb",
+      "size": 14511660,
+      "sha256": "ef0b030727809f65510b728e8acc2ffdb19c0d21471fd3993c8524b2b9915aa2"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-rig.glb.import",
+      "size": 1166,
+      "sha256": "e3c418aa12e5e676b8f6195bda9b28d67786e6425f933a6f818904fa06699d4d"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-rig_0.png",
+      "size": 3727924,
+      "sha256": "4a250a53030664052575f86dbb8d501d6eecb48d081771cd4b8ad5e78c347d63"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-rig_0.png.import",
+      "size": 1027,
+      "sha256": "7bf148887232a55aecf9c931ae249abf620227c9ff731cc390530e2208faadd4"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-rig_1.png",
+      "size": 1026836,
+      "sha256": "b6a551166fa3b8ca9cf2d59cbb7e1ee16aea370eb8567f4dd0e05e65f26f8fe5"
+    },
+    {
+      "path": "art/farmer-r1/assets/farmer-rig_1.png.import",
+      "size": 1026,
+      "sha256": "4ef7202b39c6ef488054052da1abf3c1f926ef4114e9db60d655ae03b34a9300"
+    },
+    {
+      "path": "art/farmer-r1/D1/play.tscn",
+      "size": 353,
+      "sha256": "c2280cd6543998524a5d4eb84e807ae643bc6d458a2971971794d3e234100ea2"
+    },
+    {
+      "path": "art/farmer-r1/farmer.json",
+      "size": 775,
+      "sha256": "5f6e3cd1aee23d7f47f43fdeaf5e3a13ca5ec5369b00c7cd0b92547a7de083e2"
+    },
+    {
+      "path": "art/farmer-r1/farmer_visual.gd",
+      "size": 7235,
+      "sha256": "a2c19a0f4ef0e305c660311d46c7c5e3c3d3b108bdbb631650da46a279c7d1d0"
+    },
+    {
+      "path": "art/farmer-r1/farmer_visual.gd.uid",
+      "size": 20,
+      "sha256": "695111240d4bbc513bbbde235da7ad171637bc8fcfeb55ef9c1a4a67346f7e6d"
+    },
+    {
+      "path": "art/production/garden_art.gd",
+      "size": 30512,
+      "sha256": "87979e34e05b6e8d8b824984b92ba4e946d92fb021215488956feccfb80d0eb1"
+    },
+    {
+      "path": "art/production/garden_art.gd.uid",
+      "size": 20,
+      "sha256": "8efdca3e93b0321cc824e4d1b9c1778f57a27c3fbd5fe31c9cb6e0be3ad79c04"
+    },
+    {
+      "path": "art/production/garden_ground.gdshader",
+      "size": 1496,
+      "sha256": "c14fe4e70d7f9fa1bb652958864b512dfeb2ab17c492623d30d5be2a23ab1ede"
+    },
+    {
+      "path": "art/production/garden_ground.gdshader.uid",
+      "size": 20,
+      "sha256": "9196b4449ef2f1521c39696d63202a9f5f14d561b6d975cab160e7ac85607b3a"
+    },
+    {
+      "path": "art/production/garden_look.gd",
+      "size": 6367,
+      "sha256": "7f73c38f02d5448fd688964c2cc5caff7f7663e765054945ca91a36093b5aaa8"
+    },
+    {
+      "path": "art/production/garden_look.gd.uid",
+      "size": 20,
+      "sha256": "e6254b94994787d6875228b14a4503a3b456eaff48c1f9e2ad770b5181b86e9c"
+    },
+    {
+      "path": "art/production/garden_models.gd",
+      "size": 11291,
+      "sha256": "a5e47f2f37bd7650d604459f9fba4c9f34f21864076bfb2a0400e8ea76d7dad0"
+    },
+    {
+      "path": "art/production/garden_models.gd.uid",
+      "size": 20,
+      "sha256": "9fc5ff8ee7d7f783916a509871f87952a9a84f9c4fc3746611f01acdde90bab7"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-cliff.glb",
+      "size": 8267828,
+      "sha256": "11bbd5afd38c5245f19a289f177436f559a207cb57b213ba514e13eec83c6c48"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-cliff.glb.import",
+      "size": 1164,
+      "sha256": "c3d0158ae86834ea02d98e0a20bd8295d2084612299cc0d0b78bdadbfd0d1dd2"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-cliff_0.png",
+      "size": 4411564,
+      "sha256": "17ffaf928453e6a58fecd43fe6c5d08534722afe6f3796ab27bd032ae1453429"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-cliff_0.png.import",
+      "size": 1025,
+      "sha256": "ad95a2eb14e0389e3286ddc938db5e6991d17350d1a102886cc6181bc740d366"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-cliff_1.png",
+      "size": 1527820,
+      "sha256": "f109f3f4ee9cb67a6d8dcab7fe59a971d0e6c43e19cb8df0b9d8e31973292996"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-cliff_1.png.import",
+      "size": 1024,
+      "sha256": "11b9a072faa54967d0c804dea4641b3072063ad4913828dd85928b5618c0e218"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-flowers.glb",
+      "size": 11325240,
+      "sha256": "d7612ab52c0fc3be8a9f937603abf938d7aa9dc0224935c8f980dfda7a507ba6"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-flowers.glb.import",
+      "size": 1170,
+      "sha256": "27c746897cc71f213ffd3704a6a9bde4b4e4ccae1bbf6cdb13a5c22b2238ce35"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-flowers_0.png",
+      "size": 9161580,
+      "sha256": "6f393d717d1fa5951028b5757639a75774f98f1747d820a1b9861e07074522d3"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-flowers_0.png.import",
+      "size": 1031,
+      "sha256": "03f2fcece2c50e24ae002fb40837d710de5d8e3458c6b7bbb819c73b3ce99b10"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-flowers_1.png",
+      "size": 1394604,
+      "sha256": "f5beb9e6870ff2cc338426f037f7deb7256fa1668c5a232465d02a17fb398f9d"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-flowers_1.png.import",
+      "size": 1031,
+      "sha256": "e9602eb1486d12a9c211a71465c8b327fe5ea5fb12c2e047cc53effa4d6ca026"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-pier.glb",
+      "size": 7443992,
+      "sha256": "3f1e0d2071778da788b5b477f549af3be314b7d08144c303a7cc9b14c6b9cfa3"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-pier.glb.import",
+      "size": 1161,
+      "sha256": "2f8c5b79874ba1d03457784045b2ccb537e3dd721b0e6a74cce6882f52d98577"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-pier_Image_0.png",
+      "size": 4846236,
+      "sha256": "a8ae7bb71abdcd116b4f20ebcf00fcdc17fa1a687805c07aab3a169e8852dd8e"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-pier_Image_0.png.import",
+      "size": 1040,
+      "sha256": "ea534ddfce4c9aad5d0420da5794e8305d99ea39917f618a736c2abf15b3b528"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-pier_Image_1.png",
+      "size": 2198532,
+      "sha256": "fd471f4834010b9bb0ccc6377773496a3fc7ab352f17c5016b5a0dd947e17efe"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-pier_Image_1.png.import",
+      "size": 1039,
+      "sha256": "4049fcbd3936ecf062f4a9bd7b94fbaeb511275e13e9876994e0cf69d70302f3"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-ruin.glb",
+      "size": 8271748,
+      "sha256": "1b37f946b05d41c8111bb3b3001818593fae52e551a13bfa6c600109a591cd6b"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-ruin.glb.import",
+      "size": 1161,
+      "sha256": "d05b18efdfc35016f87ceca991c5418dae25bdc071142c9eabb428628acc4511"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-ruin_0.png",
+      "size": 4846236,
+      "sha256": "a8ae7bb71abdcd116b4f20ebcf00fcdc17fa1a687805c07aab3a169e8852dd8e"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-ruin_0.png.import",
+      "size": 1021,
+      "sha256": "ff0f7713da09fb9eee9886b2000f5eed0165862fc4e0e8350a47a383d4efcbaa"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-ruin_1.png",
+      "size": 2198532,
+      "sha256": "fd471f4834010b9bb0ccc6377773496a3fc7ab352f17c5016b5a0dd947e17efe"
+    },
+    {
+      "path": "art/refinement-r3/assets/D1-ruin_1.png.import",
+      "size": 1022,
+      "sha256": "25c22d56ea6cf2edc7924369b5ea7a120d47412481ea427f62a76361d2da6ba8"
+    },
+    {
+      "path": "art/refinement-r3/D1/models.json",
+      "size": 1325,
+      "sha256": "46162135a81ced2fcfbf40754902b813ab93ff7b3af761e06f27f3a913cf96b2"
+    },
+    {
+      "path": "art/refinement-r3/D1/play.tscn",
+      "size": 776,
+      "sha256": "a4efef0625d6c7e46e16cd311c5dd2f14b94c8acbc0e4e89f676e50285e5a83b"
+    },
+    {
+      "path": "art/refinement-r3/D1/validate.gd",
+      "size": 18524,
+      "sha256": "af1865ec14c8351e47999834675bd0c997a6b6d81dabc3fde5fb493bb3d11dbb"
+    },
+    {
+      "path": "art/refinement-r3/D1/validate.gd.uid",
+      "size": 20,
+      "sha256": "8b74742b7a36ac60da5b8a48baec922d579c49c98060a70370df9019c094eba0"
+    },
+    {
+      "path": "art/refinement-r3/garden_sky.gdshader",
+      "size": 2113,
+      "sha256": "311d88088f548594b88cca56d638dae5351830bd034a04a46f2a604b0dfdf81e"
+    },
+    {
+      "path": "art/refinement-r3/garden_sky.gdshader.uid",
+      "size": 19,
+      "sha256": "1561f8ff9ffc2476f6ee6f0fcceba78fa30a7dcc6b3b3b3f278ce6570799e063"
+    },
+    {
+      "path": "art/refinement-r3/ground_detail.gd",
+      "size": 21951,
+      "sha256": "ff7cea8ffbca8bf07cf783c41063d54d270db8efd4d5792032fa2fb8a281769f"
+    },
+    {
+      "path": "art/refinement-r3/ground_detail.gd.uid",
+      "size": 20,
+      "sha256": "0e18a4b39748ec62d38b66beeea2a4763842e0d43d5ff9a521837a7dc0c96b1e"
+    },
+    {
+      "path": "art/refinement-r3/ground_detail.gdshader",
+      "size": 4697,
+      "sha256": "5665fc3977f5cffed647cc9e950a7531df4e9943af211f41513bd30d8a19aac9"
+    },
+    {
+      "path": "art/refinement-r3/ground_detail.gdshader.uid",
+      "size": 20,
+      "sha256": "d931257cd74815fc0560d5d57c3ffc94f5598f0f0375ab4cf9c91600b439ded6"
+    },
+    {
+      "path": "art/refinement-r3/plant_detail.gd",
+      "size": 22015,
+      "sha256": "2ecb00c26aaa2ace6803b14a8c5d2edb2e1416aec1a8c92e1fa7dc8cd73a165a"
+    },
+    {
+      "path": "art/refinement-r3/plant_detail.gd.uid",
+      "size": 20,
+      "sha256": "32cb149e42ba5a4ec39222cb5206b3e771fd4540ebc46c26c68ead751a7aecb4"
+    },
+    {
+      "path": "art/refinement-r3/prop_surface.gdshader",
+      "size": 540,
+      "sha256": "06e452e21d9b5f15a2926e717b58b54cdcca0112f20a245356f18f114b61ff44"
+    },
+    {
+      "path": "art/refinement-r3/prop_surface.gdshader.uid",
+      "size": 20,
+      "sha256": "5d2c3b506f73e7144946f02494378d255c8332b89c596e6c7fc999279977f9d5"
+    },
+    {
+      "path": "art/refinement-r3/scene_detail.gd",
+      "size": 14809,
+      "sha256": "6d237c6d7250f293b97e0eb3eba6331e39df6cac6b5b00529fc35cb9f965478a"
+    },
+    {
+      "path": "art/refinement-r3/scene_detail.gd.uid",
+      "size": 20,
+      "sha256": "d19d80fe96c78fb896221889fd8ee5f131d4e5a8dcacbdc1f49f7932f3f83e7b"
+    },
+    {
+      "path": "docs/concept.png",
+      "size": 2675223,
+      "sha256": "e2e730c79af858fd821fdd0a9975a17a1a5473af97e5f3a19a6f71bed572daea"
+    },
+    {
+      "path": "docs/concept.png.import",
+      "size": 930,
+      "sha256": "1326a56fde6b436c8643e9a9278450c739947b8693987e2012f5aee41ea0c39d"
+    },
+    {
+      "path": "docs/gameplay-preview.png",
+      "size": 1894243,
+      "sha256": "79f70d66a7e25c9b798264c173e547df6f2108ea05bbbaa97a11f57f2260987d"
+    },
+    {
+      "path": "docs/gameplay-preview.png.import",
+      "size": 957,
+      "sha256": "17e710d9370ac61a5123321b3c0cf26d3865cb693203dab6b180786461613ec7"
+    },
+    {
+      "path": "docs/validation/delivery-check/00-introduction.png",
+      "size": 1013265,
+      "sha256": "930a3e1d7d5d93564c3de36ca268a5bde4df379826fe2500cc590e16dcddaded"
+    },
+    {
+      "path": "docs/validation/delivery-check/01-growing-vine.png",
+      "size": 1716059,
+      "sha256": "660aafdbb72f3f26a3104c0e1a2a9d728ef9f56b29fab8661748f3b40d9c1a84"
+    },
+    {
+      "path": "docs/validation/delivery-check/02-bridge-clean.png",
+      "size": 1894282,
+      "sha256": "8555b4e183c0d7acd8745ae05af582deab9c5369e73b4a162a56af85c34c7d83"
+    },
+    {
+      "path": "docs/validation/delivery-check/02-bridge.png",
+      "size": 1728681,
+      "sha256": "1d159c9958a85a4cd86d2973a48d792e269b7d83b38ca05934c5e5124857ac6f"
+    },
+    {
+      "path": "docs/validation/delivery-check/02b-bridge-center.png",
+      "size": 1708570,
+      "sha256": "9466bb99cb0eddb6b6902e3356f0f90314a634e51068f74c794fe9e81f0a6c57"
+    },
+    {
+      "path": "docs/validation/delivery-check/03-root-gate-clean.png",
+      "size": 1642976,
+      "sha256": "2eb51b6075e0b76d808e3d5a5f44baa24ca28525f35a0a220f0c921c8369675c"
+    },
+    {
+      "path": "docs/validation/delivery-check/03-root-gate.png",
+      "size": 1498418,
+      "sha256": "c8bf0611357901fc2718acc35824ba811225844a8bcf7a07962af1c50fc11a45"
+    },
+    {
+      "path": "docs/validation/delivery-check/04-awakened-clean.png",
+      "size": 1338546,
+      "sha256": "c013992a05b9f29dc2340ae587108179703117cb8644e561e470911818b8d501"
+    },
+    {
+      "path": "docs/validation/delivery-check/04-awakened.png",
+      "size": 690206,
+      "sha256": "00f308e033b743318747e9f805614c3d170cf6f2594f62789eba246bde14aaf9"
+    },
+    {
+      "path": "docs/validation/delivery-check/attempt-status.json",
+      "size": 123,
+      "sha256": "972bd6af75bfd744b870187b67887d869b7e22d334a469b8468c5e0a2b9e431c"
+    },
+    {
+      "path": "docs/validation/delivery-check/camera-far.png",
+      "size": 1872151,
+      "sha256": "ef90d876010481304ca58fbfb62e84067d5689cf3840755ec0fcc6e1dfeced54"
+    },
+    {
+      "path": "docs/validation/delivery-check/camera-near.png",
+      "size": 1866450,
+      "sha256": "f85777f7a1f146840fc34d4efb725589330111fd4efb9497de2947ea051d26e8"
+    },
+    {
+      "path": "docs/validation/delivery-check/camera-return.png",
+      "size": 1874045,
+      "sha256": "5310efd337399d676e129de67ad800c022eed6fb3a1bb327bf44725bb3765538"
+    },
+    {
+      "path": "docs/validation/delivery-check/camera-side.png",
+      "size": 1770164,
+      "sha256": "bcc9672c1bb3922b4a6262328eabb0b60da2853c4cc48ee858e5a7023d0bc674"
+    },
+    {
+      "path": "docs/validation/delivery-check/godot.log",
+      "size": 3068,
+      "sha256": "082783a68e3e5fde19f0fcfd9df60e7cbae3f488dfb1020342a670cd14efedf3"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/00-introduction.png",
+      "size": 1013237,
+      "sha256": "ff722a6d74173c180f9df050e16b8aee3fc37f1f88111e3e80de75b8dd1c5534"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/01-growing-vine.png",
+      "size": 1715596,
+      "sha256": "639402eb1fa7ab2a37b7f9a6f71316a963bbebefa43c0da017470a461c9a0e17"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/02-bridge-clean.png",
+      "size": 1894057,
+      "sha256": "b2f34cfc1b06d6e5f46161fbe1b9ab110f321cbb466b41e7e48045077b27743f"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/02-bridge.png",
+      "size": 1728244,
+      "sha256": "85bfb939b1d41468c73b9c88fc6909a87934b4367db62e81e48af6f298e48069"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/02b-bridge-center.png",
+      "size": 1712309,
+      "sha256": "8c8c5b702b2e718a416534585d5bdb5288bfc03874f564f84857800351f9235c"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/03-root-gate-clean.png",
+      "size": 1642226,
+      "sha256": "5f5cf076fdb0536ba4bccfbfd66af04874dcbe224f6cdfab01154a8e1c2ef59c"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/03-root-gate.png",
+      "size": 1499322,
+      "sha256": "1bd6ad1b39cf232166f5c280efba2b3efa8b7503712742395d18fa8bad689d91"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/04-awakened-clean.png",
+      "size": 1338636,
+      "sha256": "f128f22f6fc473354d0b6b120525b93d42ea4185f625d81f1ec08f0bd0eed8f2"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/04-awakened.png",
+      "size": 688984,
+      "sha256": "414479a380e8e5e31b94d5235649d88dbb905818bfd8d7176612914026b0d649"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/camera-far.png",
+      "size": 1871906,
+      "sha256": "20ee1751ab479cfb627feb3b627c142dbdb62579daccdd808d31a76db570c5b9"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/camera-near.png",
+      "size": 1866003,
+      "sha256": "50a9e2d0e33284581395efc1cef2ceefdd8be974aea8a678f88bc2a93f96bbe2"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/camera-return.png",
+      "size": 1874487,
+      "sha256": "c3a09429358a9ea58a81e402ce95817107712e040e21f466712c637d3427a492"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/camera-side.png",
+      "size": 1770248,
+      "sha256": "3cefca8b8df30ad8ae6da3fd65fa88e5ef93b58ad73dd2835e0f7757326ee18d"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/farmer-back.png",
+      "size": 1025654,
+      "sha256": "ba721041859e41a668c9c84119b7c35a96daddc8815cd1ddc138946e8b189a1b"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/farmer-front.png",
+      "size": 1109608,
+      "sha256": "d77a4b945fcef703fb3251e56e2ff50f2253922ea664ec76bfbd646e10501ad2"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/farmer-side.png",
+      "size": 1016199,
+      "sha256": "eae5c619f6734cc417947f97bd1fb64fcfebfa2c3e7e1eb3e538c3bd4a92d91c"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/godot.log",
+      "size": 3097,
+      "sha256": "946a862801d4ca1ee9ccd20a4ba8f8fd6a65e70a2d5502eada2c644df6bdee85"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/process.log",
+      "size": 3162,
+      "sha256": "cc7e9bfdd93659eacafe7280287ec1d342435b94541ba5496983fc271f9dfdf9"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/summary.json",
+      "size": 21469,
+      "sha256": "c37e6c18894b9cedbbc6537872329c382165053f928d0c47290a6417efac972d"
+    },
+    {
+      "path": "docs/validation/delivery-check-r2/visual-smoke.json",
+      "size": 220195,
+      "sha256": "34c496d9534f7a3c0b209fde2d787100976962a698351157ffe4681c21518d1f"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "size": 16437364,
+      "sha256": "2c76254f6fc379fddfce0a7e84fb5385bb135d3e399294f6eeb6680d0365b74b"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf.import",
+      "size": 794,
+      "sha256": "f3d28b1488e800f59432dfc3bf65e45bf294821f38dfd9fa28a83be650cae1f8"
+    },
+    {
+      "path": "fonts/OFL.txt",
+      "size": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "main.tscn",
+      "size": 78329,
+      "sha256": "98b4b4450fb7e95cc46209482757cad517bd135e98d359f631145ca80f93b1a6"
+    },
+    {
+      "path": "project-info.json",
+      "size": 7950,
+      "sha256": "336486ceaa58279292d780e6d9e71215ca4f8eece7c04ca17634ee138635c792"
+    },
+    {
+      "path": "project.godot",
+      "size": 727,
+      "sha256": "eef4d9876e579fdd4694d65e147793649833de83c8ef18d2f48929ebdbbbcbf1"
+    },
+    {
+      "path": "README.md",
+      "size": 2462,
+      "sha256": "e0ea7a690bcbd768c02b0e8bc0c1819ef1af3ca54afca5d16622c37cce35da7e"
+    },
+    {
+      "path": "scripts/game.gd",
+      "size": 12251,
+      "sha256": "a3c2d115cc8d11eb5b61b7ef3f3638de437f1a3e8f521dbe5645255c8f292431"
+    },
+    {
+      "path": "scripts/game.gd.uid",
+      "size": 20,
+      "sha256": "54bbdbc9b62db2a0c16b031ef0301c82438333128a10902f79cdaae35d7772c3"
+    },
+    {
+      "path": "scripts/hud.gd",
+      "size": 8226,
+      "sha256": "6dda2a3f999f09661eb8be0a5fa7184bffc9ab32469e842ee63fb115f928e3d3"
+    },
+    {
+      "path": "scripts/hud.gd.uid",
+      "size": 20,
+      "sha256": "0b92a2db2d4c312a697916d2f64a6740e75e7149203cc836a37127cbf7225f66"
+    },
+    {
+      "path": "scripts/map.gd",
+      "size": 1382,
+      "sha256": "daa33c22d36f69f1bf1d87ce7a8691e8348da6bf78c61a2b0d8be5f62fe7846b"
+    },
+    {
+      "path": "scripts/map.gd.uid",
+      "size": 19,
+      "sha256": "71d174d2bb2f5390e77b4b7a3a3eacb131329ae3e62431631b58e4a6a9f0dc3e"
+    },
+    {
+      "path": "scripts/player.gd",
+      "size": 994,
+      "sha256": "cca8161a251067915f8acd7fc526f20dfa4e47ed6accca78cad30b764af7eb8a"
+    },
+    {
+      "path": "scripts/player.gd.uid",
+      "size": 19,
+      "sha256": "04cc8daefaad602878b9a7f6c3ba617455023c7357a22b34bed5043f8a7c08e6"
+    },
+    {
+      "path": "scripts/plot.gd",
+      "size": 6190,
+      "sha256": "9edcde2d29bdd7b4f6d362c203adc10da2f04f866d90d7212fe921f145c35317"
+    },
+    {
+      "path": "scripts/plot.gd.uid",
+      "size": 20,
+      "sha256": "cfc14d1ced334d666f2a89c8d94260eedc8a33603424deb1310d391702a814b1"
+    },
+    {
+      "path": "tests/smoke.gd",
+      "size": 10212,
+      "sha256": "25a478ae4ce561f0fe5b6053b907bbcdacb01cb6f63dca2993f254f8cf32de04"
+    },
+    {
+      "path": "tests/smoke.gd.uid",
+      "size": 19,
+      "sha256": "7b084a3f177415f8268b8326a181d8770dff1ef2a3153faefe3f34e33056ed60"
+    },
+    {
+      "path": "tools/update_asset_hashes.py",
+      "size": 1442,
+      "sha256": "e14e7c199b6d997747a66905ba26e6d6863bb79c44b28664c05b9099b2d06926"
+    },
+    {
+      "path": "tools/validate_project.py",
+      "size": 3753,
+      "sha256": "8cefea54c0237026e700d6287b158bd5a6ace2036e532263ec3a50154c006a8a"
+    }
+  ]
+}

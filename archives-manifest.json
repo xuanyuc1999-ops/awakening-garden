@@ -1,0 +1,16 @@
+[
+  {
+    "variant": "A1",
+    "archive": "A1-完整工程.zip",
+    "bytes": 507893107,
+    "sha256": "40dfe5151757dbc7092239fad613e18dcb12a46297f3f48b950835e2888e7076",
+    "source_directory": "A1"
+  },
+  {
+    "variant": "D1",
+    "archive": "D1-完整工程.zip",
+    "bytes": 566467788,
+    "sha256": "58455e5ead02b08bfb1510b61f89756af97694e0bfb2116cc4300d10c92bdaee",
+    "source_directory": "D1"
+  }
+]
