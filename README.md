@@ -21,11 +21,13 @@
 
 ## 获取完整工程
 
-- **直接下载**：前往本仓库的 **Releases**，下载 `A1-完整工程.zip` 或 `D1-完整工程.zip`。两个文件保留原始交付内容，可分别下载使用。
+- **直接下载**：前往本仓库的 **Releases**，下载 `A1-complete-project.zip` 或 `D1-complete-project.zip`。两个文件保留原始交付内容，可分别下载使用。
 - **继续开发**：克隆本仓库，分别导入 `A1/project.godot` 或 `D1/project.godot`。
 - **校验下载**：Release 随附 `SHA256SUMS.txt`；文件大小与 SHA-256 也记录在 [`archives-manifest.json`](archives-manifest.json) 中。
 
 原始 ZIP 作为 Release 附件保存；仓库目录保存解压后的可编辑工程。
+
+GitHub 下载附件使用英文文件名，并配有中文标签。`A1-complete-project.zip` 对应原始的 `A1-完整工程.zip`，`D1-complete-project.zip` 对应 `D1-完整工程.zip`；仅下载名称不同，文件内容与 SHA-256 完全一致。
 
 ## 打开与运行
 

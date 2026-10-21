@@ -7,7 +7,7 @@
 - `A1-完整工程.zip`：A1 · 陶土暖园，`refinement-r3`。
 - `D1-完整工程.zip`：D1 · 月下荆园，`refinement-r3`。
 
-原始 ZIP 未重新压缩、改名或修改内部内容，作为 Release 附件保存。其准确字节数与 SHA-256 见 `archives-manifest.json` 和 `SHA256SUMS.txt`。
+原始 ZIP 未重新压缩或修改内部内容，作为 Release 附件保存。GitHub 下载名称分别为 `A1-complete-project.zip` 和 `D1-complete-project.zip`，并保留中文显示标签。原文件名、下载文件名、准确字节数与 SHA-256 的对应关系见 `archives-manifest.json`；`SHA256SUMS.txt` 使用下载文件名，可直接用于校验。
 
 ## 整理方式
 
